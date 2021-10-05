@@ -1,8 +1,11 @@
 # Desafio Go
 Desafio do curso Full Cycle da Code Education, relacionado ao que foi aprendido no tópico "Iniciando com Docker".
 
+## Docker Hub 🐳
+https://hub.docker.com/repository/docker/ayrtonsouza/golang
+
 ```bash
-docker run ayrtonsouza/codeeducation
+docker run ayrtonsouza/golang
 ```
 
 ## Enunciado
